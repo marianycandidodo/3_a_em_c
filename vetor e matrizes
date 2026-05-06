@@ -1,0 +1,13 @@
+
+#include <stdio.h>
+
+int main()
+{
+int n[4] = {1,2,3,5};
+char l[3] = {'a','b','c'};
+char a[20] = "ovelha";
+
+
+  
+    return 0;
+}
